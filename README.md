@@ -13,3 +13,5 @@ The main objective is to develop a web application for Innovatech, a technology 
 
 <img width="536" alt="image" src="https://github.com/szebiniso/vr-pro/assets/72644178/249c7123-07c2-4759-83e8-e13233c9db22">
 
+#### Video description: 
+https://youtu.be/vnX4lV-ty7E
