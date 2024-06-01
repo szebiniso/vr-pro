@@ -10,7 +10,7 @@ const Banner = () => {
         data-aos="zoom-out-right"
       >
         <h1 className="whitespace-pre-wrap font-medium text-gray-500 min-[320px]:text-4xl lg:text-8xl">
-          VIRTUAL REALITY
+          Innovatech VR Pro
         </h1>
         <p className="text-gray-500">
           We are pioneering company hat focus on harnessing e potential of
